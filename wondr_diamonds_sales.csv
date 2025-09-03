@@ -1,0 +1,101 @@
+CustomerID,Name,Age,Gender,City,Product,Price,Quantity,PurchaseDate,Channel,Occasion
+C001,Ravi,23,Female,Chennai,Wedding Necklace,186579,1,2025-08-17,Online,Anniversary
+C002,Kavya,49,Male,Coimbatore,Engagement Ring,108657,1,2025-07-15,Online,Anniversary
+C003,Meera,48,Male,Hyderabad,Mangalsutra,222926,1,2025-08-21,Online,Wedding
+C004,Rajesh,43,Female,Chennai,Wedding Necklace,350145,1,2025-07-22,Online,Engagement
+C005,Nisha,28,Female,Trichy,Gold Bangle,84671,1,2025-08-21,Online,Festival
+C006,Vivek,29,Female,Coimbatore,Mangalsutra,226854,1,2025-08-23,In-store,Anniversary
+C007,Meera,26,Male,Salem,Wedding Necklace,352655,1,2025-07-19,Online,Wedding
+C008,Ravi,46,Female,Hyderabad,Cocktail Ring,189328,1,2025-07-24,Online,Gifting
+C009,Suresh,35,Female,Salem,Cocktail Ring,164939,1,2025-07-05,Online,Anniversary
+C010,Anand,32,Female,Hyderabad,Gold Bangle,78785,1,2025-08-13,In-store,Engagement
+C011,Anand,24,Female,Hyderabad,Gold Bangle,58675,1,2025-07-14,In-store,Wedding
+C012,Harish,47,Female,Chennai,Gold Bangle,68301,1,2025-07-16,In-store,Anniversary
+C013,Rajesh,47,Female,Chennai,Wedding Necklace,283569,1,2025-08-01,Online,Engagement
+C014,Ravi,31,Male,Trichy,Cocktail Ring,135333,1,2025-08-08,Online,Festival
+C015,Nisha,51,Female,Madurai,Bracelet,51504,1,2025-08-13,Online,Anniversary
+C016,Divya,43,Male,Bangalore,Diamond Earrings,80730,1,2025-07-30,Online,Gifting
+C017,Pooja,33,Male,Trichy,Cocktail Ring,119117,1,2025-08-23,Online,Wedding
+C018,Suresh,32,Male,Madurai,Gold Bangle,114042,1,2025-07-02,Online,Gifting
+C019,Karthik,37,Male,Chennai,Mangalsutra,398237,1,2025-07-06,Online,Festival
+C020,Kavya,30,Male,Salem,Diamond Earrings,132063,1,2025-07-11,In-store,Anniversary
+C021,Shreya,49,Male,Madurai,Bracelet,76365,1,2025-08-15,In-store,Festival
+C022,Suresh,50,Female,Coimbatore,Wedding Necklace,208903,1,2025-07-05,In-store,Engagement
+C023,Manoj,36,Male,Coimbatore,Engagement Ring,172778,1,2025-08-10,Online,Wedding
+C024,Kavya,24,Female,Coimbatore,Mangalsutra,212391,1,2025-07-18,In-store,Wedding
+C025,Vivek,30,Female,Chennai,Bracelet,111993,1,2025-08-21,In-store,Wedding
+C026,Ravi,28,Female,Bangalore,Diamond Earrings,113883,1,2025-07-30,Online,Engagement
+C027,Arjun,47,Female,Trichy,Bracelet,64322,1,2025-07-16,Online,Wedding
+C028,Vivek,50,Male,Hyderabad,Wedding Necklace,223018,1,2025-07-30,Online,Engagement
+C029,Anjali,28,Male,Salem,Mangalsutra,369159,1,2025-07-01,Online,Wedding
+C030,Vikram,48,Female,Hyderabad,Wedding Necklace,376662,1,2025-07-26,Online,Wedding
+C031,Nisha,22,Female,Bangalore,Bracelet,109638,1,2025-07-19,In-store,Anniversary
+C032,Harish,31,Male,Bangalore,Wedding Necklace,165331,1,2025-08-07,Online,Gifting
+C033,Arjun,25,Female,Madurai,Bracelet,119615,1,2025-07-11,Online,Anniversary
+C034,Kavya,33,Male,Madurai,Engagement Ring,168501,1,2025-08-25,Online,Festival
+C035,Ravi,37,Male,Madurai,Engagement Ring,134948,1,2025-08-12,In-store,Gifting
+C036,Meera,42,Male,Bangalore,Diamond Earrings,77154,1,2025-08-12,In-store,Festival
+C037,Lakshmi,26,Male,Hyderabad,Mangalsutra,297585,1,2025-07-07,Online,Anniversary
+C038,Meera,54,Female,Chennai,Gold Bangle,59016,1,2025-08-26,Online,Gifting
+C039,Karthik,32,Female,Trichy,Mangalsutra,334428,1,2025-07-20,Online,Anniversary
+C040,Karthik,28,Male,Bangalore,Engagement Ring,196616,1,2025-07-07,Online,Gifting
+C041,Karthik,35,Female,Chennai,Cocktail Ring,163130,1,2025-08-24,In-store,Anniversary
+C042,Harish,38,Male,Coimbatore,Cocktail Ring,135518,1,2025-08-23,In-store,Engagement
+C043,Priya,43,Male,Salem,Gold Bangle,71178,1,2025-08-17,In-store,Anniversary
+C044,Rajesh,22,Male,Coimbatore,Cocktail Ring,198479,1,2025-07-10,Online,Gifting
+C045,Manoj,31,Female,Chennai,Engagement Ring,120404,1,2025-07-24,Online,Gifting
+C046,Meera,37,Male,Bangalore,Bracelet,103264,1,2025-08-09,Online,Wedding
+C047,Vikram,33,Female,Coimbatore,Wedding Necklace,343085,1,2025-08-29,In-store,Festival
+C048,Anand,39,Male,Trichy,Cocktail Ring,94168,1,2025-07-25,Online,Festival
+C049,Anand,34,Female,Bangalore,Gold Bangle,79831,1,2025-07-15,Online,Wedding
+C050,Nisha,43,Female,Trichy,Engagement Ring,181361,1,2025-07-18,In-store,Anniversary
+C051,Nisha,43,Male,Coimbatore,Gold Bangle,73405,1,2025-08-07,In-store,Engagement
+C052,Ravi,49,Female,Salem,Bracelet,91114,1,2025-07-28,Online,Festival
+C053,Manoj,34,Female,Coimbatore,Cocktail Ring,137154,1,2025-07-01,Online,Gifting
+C054,Rajesh,26,Female,Madurai,Gold Bangle,66334,1,2025-08-16,In-store,Anniversary
+C055,Karthik,48,Female,Hyderabad,Cocktail Ring,118752,1,2025-08-05,Online,Wedding
+C056,Rajesh,46,Male,Madurai,Mangalsutra,228892,1,2025-07-26,Online,Gifting
+C057,Karthik,35,Female,Trichy,Mangalsutra,309032,1,2025-08-11,In-store,Festival
+C058,Anjali,50,Male,Madurai,Diamond Earrings,82241,1,2025-08-12,Online,Gifting
+C059,Pooja,43,Male,Trichy,Bracelet,80784,1,2025-08-13,In-store,Wedding
+C060,Meera,31,Male,Coimbatore,Wedding Necklace,274554,1,2025-08-09,Online,Festival
+C061,Rajesh,34,Female,Hyderabad,Diamond Earrings,91979,1,2025-07-10,Online,Engagement
+C062,Rajesh,36,Male,Trichy,Cocktail Ring,147889,1,2025-07-30,Online,Anniversary
+C063,Anand,29,Female,Chennai,Bracelet,110901,1,2025-08-12,In-store,Festival
+C064,Shreya,54,Female,Trichy,Mangalsutra,266893,1,2025-08-27,Online,Festival
+C065,Anjali,38,Male,Trichy,Cocktail Ring,116347,1,2025-08-19,In-store,Wedding
+C066,Divya,50,Male,Salem,Gold Bangle,80735,1,2025-07-18,In-store,Gifting
+C067,Vivek,27,Male,Chennai,Wedding Necklace,250410,1,2025-08-14,Online,Wedding
+C068,Kavya,48,Female,Bangalore,Mangalsutra,272139,1,2025-07-27,Online,Wedding
+C069,Rajesh,46,Male,Trichy,Bracelet,99857,1,2025-07-31,Online,Gifting
+C070,Karthik,46,Female,Madurai,Cocktail Ring,176289,1,2025-08-04,Online,Festival
+C071,Anand,39,Female,Hyderabad,Engagement Ring,130968,1,2025-07-22,In-store,Wedding
+C072,Anjali,30,Male,Hyderabad,Mangalsutra,297951,1,2025-08-12,Online,Engagement
+C073,Rajesh,30,Female,Chennai,Engagement Ring,114099,1,2025-07-25,In-store,Wedding
+C074,Anjali,42,Female,Trichy,Diamond Earrings,96471,1,2025-08-18,In-store,Gifting
+C075,Kavya,52,Male,Salem,Mangalsutra,163653,1,2025-08-30,In-store,Wedding
+C076,Kavya,24,Male,Chennai,Wedding Necklace,369998,1,2025-07-02,Online,Wedding
+C077,Sneha,52,Male,Madurai,Wedding Necklace,271905,1,2025-08-14,In-store,Gifting
+C078,Vikram,29,Male,Bangalore,Engagement Ring,155849,1,2025-07-02,In-store,Anniversary
+C079,Nisha,47,Male,Coimbatore,Mangalsutra,331040,1,2025-08-23,Online,Engagement
+C080,Karthik,29,Male,Bangalore,Mangalsutra,262296,1,2025-08-12,In-store,Engagement
+C081,Pooja,43,Male,Trichy,Diamond Earrings,124251,1,2025-07-07,In-store,Gifting
+C082,Anjali,31,Female,Chennai,Cocktail Ring,148386,1,2025-08-11,In-store,Anniversary
+C083,Vivek,52,Female,Hyderabad,Bracelet,85179,1,2025-07-21,Online,Engagement
+C084,Divya,50,Male,Trichy,Diamond Earrings,134691,1,2025-08-09,In-store,Gifting
+C085,Priya,53,Female,Chennai,Diamond Earrings,87802,1,2025-07-23,In-store,Gifting
+C086,Divya,39,Male,Madurai,Wedding Necklace,172442,1,2025-07-16,In-store,Festival
+C087,Vivek,37,Female,Salem,Cocktail Ring,144332,1,2025-07-29,Online,Engagement
+C088,Karthik,36,Female,Salem,Wedding Necklace,230270,1,2025-08-12,In-store,Festival
+C089,Vivek,55,Female,Hyderabad,Cocktail Ring,152140,1,2025-07-22,In-store,Festival
+C090,Divya,41,Female,Chennai,Engagement Ring,174540,1,2025-07-13,In-store,Engagement
+C091,Vivek,33,Male,Chennai,Cocktail Ring,143464,1,2025-07-18,In-store,Engagement
+C092,Meera,40,Male,Bangalore,Wedding Necklace,229237,1,2025-07-01,Online,Gifting
+C093,Arjun,25,Female,Salem,Wedding Necklace,317213,1,2025-08-25,In-store,Engagement
+C094,Priya,40,Female,Hyderabad,Diamond Earrings,104657,1,2025-07-12,Online,Gifting
+C095,Harish,29,Male,Hyderabad,Diamond Earrings,69710,1,2025-08-06,Online,Wedding
+C096,Sneha,41,Male,Chennai,Engagement Ring,153147,1,2025-08-18,In-store,Anniversary
+C097,Shreya,36,Female,Hyderabad,Diamond Earrings,98974,1,2025-08-25,In-store,Gifting
+C098,Manoj,25,Male,Trichy,Wedding Necklace,313975,1,2025-07-14,In-store,Engagement
+C099,Vikram,37,Male,Madurai,Engagement Ring,100517,1,2025-07-01,In-store,Festival
+C100,Shreya,52,Female,Coimbatore,Wedding Necklace,225524,1,2025-08-15,In-store,Festival
